@@ -1,5 +1,13 @@
 # Testing NFC P2P
 
+## Prereq
+
+* Install Android Studio
+* SETX JAVA_HOME "C:\Program Files\Android\Android Studio\jre"
+* Append to path: ;%JAVA_HOME%\bin
+
+## Create
+
 Insruction from [chariotsolutions/phonegap-nfc](https://github.com/chariotsolutions/phonegap-nfc/blob/master/doc/GettingStartedCLI.md)  
 
 ```bash
