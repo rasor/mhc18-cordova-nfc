@@ -1,0 +1,24 @@
+bin/
+gen/
+.idea/
+*.iml
+pg.sh
+update.sh
+local.properties
+bin
+gen
+out
+
+node_modules/
+
+plugins/
+platforms/
+
+# Mac
+.DS_Store
+
+# iOS
+*.xcuserdatad
+
+# res
+resources/signing
